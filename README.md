@@ -1,14 +1,13 @@
 # diskominfo-smg-magang
-This Project belongs to our special team from Computer Engineering University of Diponegoro
+This Project belongs to our special team from Dian Nuswantoro University
 
 Feel free to check it out
 
 # Authors :
-`Muhamad Ibnu Fadhil`
-`Muhammad Asroruddin`
-`M. Bintang Prayoga Utama`
-`Yosia Aser Camme`
-`Muhammad Jawaar`
+`Rayhan Noor Facthurrahman`
+`Harmiaji Bagas Satyatma S.`
+`Reza Firmansyah Putranto`
+`Raga Brian Satria P.`
 
 Tech used :
 ReactJS (frontEnd)
